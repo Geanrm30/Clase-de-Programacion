@@ -1,0 +1,7 @@
+arroz
+pan
+queso
+cebolla
+manzana
+azucar
+cafe
