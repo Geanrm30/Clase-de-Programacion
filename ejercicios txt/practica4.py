@@ -1,4 +1,4 @@
-# Lector de Datos CSV - Ejercicio 4
+# Lector de Datos CSV
 
 # Abrir el archivo productos.csv en modo lectura y con codificación utf-8
 with open('productos.csv', 'r', encoding='utf-8') as archivo:
